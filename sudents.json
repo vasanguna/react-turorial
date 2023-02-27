@@ -1,0 +1,17 @@
+{
+   "sutdents" :[
+	{
+	  "name":"Raja",
+	  "age" :26
+	},
+	{
+	  "name":"Mani",
+	  "age" :28
+	},
+	{
+	  "name":"Vinoth",
+	  "age" :27
+	}
+    ]
+
+}
